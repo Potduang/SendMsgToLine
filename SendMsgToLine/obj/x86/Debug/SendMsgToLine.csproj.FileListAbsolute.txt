@@ -1,0 +1,10 @@
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\obj\x86\Debug\SendMsgToLine.Form1.resources
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\obj\x86\Debug\SendMsgToLine.Properties.Resources.resources
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\bin\Debug\SendMsgToLine.exe
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\bin\Debug\SendMsgToLine.pdb
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\obj\x86\Debug\SendMsgToLine.exe
+c:\users\vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\obj\x86\Debug\SendMsgToLine.pdb
+C:\Users\Vgh00\documents\visual studio 2010\Projects\SendMsgToLine\SendMsgToLine\bin\Debug\MySql.Data.dll

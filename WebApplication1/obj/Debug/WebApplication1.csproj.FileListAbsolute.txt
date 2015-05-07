@@ -1,0 +1,6 @@
+C:\Users\Vgh00\documents\visual studio 2010\Projects\SendMsgToLine\WebApplication1\bin\WebApplication1.dll
+C:\Users\Vgh00\documents\visual studio 2010\Projects\SendMsgToLine\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Vgh00\documents\visual studio 2010\Projects\SendMsgToLine\WebApplication1\bin\MySql.Data.dll
+C:\Users\Vgh00\documents\visual studio 2010\Projects\SendMsgToLine\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vgh00\documents\visual studio 2010\Projects\SendMsgToLine\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Vgh00\documents\visual studio 2010\Projects\SendMsgToLine\WebApplication1\obj\Debug\WebApplication1.pdb
